@@ -15,3 +15,9 @@ migration:
     - platform: root
       create_revision: 2024
       base_revision: 2024
+    - platform: android
+      create_revision: 2024
+      base_revision: 2024
+    - platform: ios
+      create_revision: 2024
+      base_revision: 2024
